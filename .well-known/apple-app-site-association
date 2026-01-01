@@ -4,7 +4,7 @@
       "details": [                                                                                                          
         {                                                                                                                   
           "appID": "K2V4RUXGKP.com.stevenzweier.addem",                                                                         
-          "paths": ["/puzzle/*", "/challenge/*"]                                                                            
+          "paths": ["/puzzle/*", "/challenge/*", "/app/*"]                                                                            
         }                                                                                                                   
       ]                                                                                                                     
     }                                                                                                                       
